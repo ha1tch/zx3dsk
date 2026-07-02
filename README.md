@@ -1,8 +1,8 @@
 # zx3dsk
 
-This project is discontinued, now superseded by the new and imroved project `plus3` 
-Available at: https://github.com/ha1tch/plus3
+This project is discontinued, now superseded by the new and imroved project `plus3` .
 
+`plus3` is available at: https://github.com/ha1tch/plus3
 
 ## Author
 **Email:** h@ual.li  
